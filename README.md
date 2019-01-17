@@ -5,7 +5,7 @@ Nature tours sample fully responsive website built with HTML &amp; advanced CSS3
 
 Responsive Tour website
 
-![Nature Tours](imgs/naturetours.gif)
+![Nature Tours](img/naturetours.gif)
 
 
 ####### Features #######
